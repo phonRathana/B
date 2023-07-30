@@ -3213,43 +3213,8 @@ document.head.appendChild(style);
                             speed: 500,
                             fade: false,
                             cssEase: 'linear',
-                            lazyLoad: 'ondemand',
-                            mobileFirst: true,
-                            swipe: true,
-                            swipeToSlide: true,
-                            centerMode: false,
-                            variableWidth: false,
-                            arrows: false,
-                            prevArrow: '<i class="fas fa-chevron-left slick-prev slick-nav"></i>',
-                            nextArrow: '<i class="fas fa-chevron-right slick-next slick-nav"></i>',
-                            responsive: [
-                                {
-                                    breakpoint: 1023,
-                                    settings: {
-                                        slidesToShow: 3,
-                                        slidesToScroll: 3,
-                                    }
-                                },
-                                {
-                                    breakpoint: 600,
-                                    settings: {
-                                        slidesToShow: 1,
-                                        slidesToScroll: 1,
-                                    }
-                                },
-                                {
-                                    breakpoint: 480,
-                                    settings: {
-                                        slidesToShow: 1,
-                                        slidesToScroll: 1,
-                                    }
-                                }
-                            ]
-                        });
-                    }
-                </script>                        
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1e7946724e","applicationID":"31671751","transactionName":"YVNTMEdUW0FYBk1QXFgZcAdBXFpcFg1WVFY=","queueTime":0,"applicationTime":835,"atts":"TRRQRg9OSE8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
-</html>
+      
+                                 
                     
                 
 
