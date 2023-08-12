@@ -1,0 +1,23 @@
+ const addEventCallback require('addEventCallback'); =
+ const claimRequest = require('claimRequest');
+ const extractEvents FromMpv1 = require('extractEventsFromMpv1');
+ const logToConsole = require('logToConsole');
+ const returnResponse = require('returnResponse');
+ const runContainer = require('runContainer');
+
+    claimRequest();
+
+const events = extractEventsFromMpv1();
+let eventsCompleted = 0;
+events.forEach((evt, i) => {
+   runContainer (evt, /* onComplete= */ (bindToEvent) => { bindToEvent (addEventCallback) ((containerId, eventData) } 
+    logToConsole('Event Number: ' + i);
+        eventData.tags.forEach((tag) => {
+            logToConsole('Tag ID: + tag.id);
+            logToConsole('Tag Status: +tag.status);
+            logToConsole('Tag Execution Time: tag.executionTime);
+          });
+        });
+      if (events.length ===++eventsCompleted) {
+    returnResponse();
+}
