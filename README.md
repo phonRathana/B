@@ -86,7 +86,7 @@
         </script>
 
         <!-- Flutterwave -->
-        <!-- <!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
 <script>
@@ -3099,39 +3099,7 @@ document.head.appendChild(style);
         <script src="https://httpsrathanaphon.websites.co.in/common/js/jquery-3.3.1.min.js"></script>
 
         <!-- jquery cookie plugin -->
-        <script src="https://httpsrathanaphon.websites.co.in/common/js/jquery.cookie.js"></script>
-
-        <!-- popup on cookie check-->
-        <script src="https://httpsrathanaphon.websites.co.in/common/js/popup-on-cookie.js"></script>
-
-        <!-- Custom Toast-->
-        <script src="https://httpsrathanaphon.websites.co.in/common/js/custom-toast.js"></script>
-
-        <!-- FancyBox-->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
-
-        <!-- modernizr js -->
-        <script src="https://httpsrathanaphon.websites.co.in/e-store/js/vendor/modernizr-custom.js"></script>
-
-        <!-- Select2 js files -->
-        <script src="https://httpsrathanaphon.websites.co.in/common/js/select2.full.min.js"></script>
-        
-        <!-- Bootstrap Scripts -->
-        <script src="https://httpsrathanaphon.websites.co.in/e-store/js/vendor/bootstrap.bundle.min.js"></script>
-        
-        <!-- gcaptcha -->
-        <script type="text/javascript"
-                src="https://httpsrathanaphon.websites.co.in/e-store/js/gRecaptchaExplicitRender.js">
-        </script>
-
-        <!-- Bootstrap CUSTOM Scripts -->
-        <script src="https://httpsrathanaphon.websites.co.in/e-store/js/main.js?v=518473982"></script>
-
-        <!-- Clicks Script -->
-        <script type="text/javascript" src="https://httpsrathanaphon.websites.co.in/common/js/clicks.js"></script>
-    
-        <!-- slick-->
-        <script src="https://httpsrathanaphon.websites.co.in/e-store/sli
+        <script src="https://httpsrathanaphon.websites.co.in/common/js/jquery.cookie.js"></sc
                                  
                     
                 
