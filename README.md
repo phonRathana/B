@@ -3086,20 +3086,7 @@ document.head.appendChild(style);
 
                             <div class="product-categories-row" style="display: none;">
                                 <p class="p-cat-label">Category:</p>
-                                <a href="#" class="p-cat" id="pqv-data-pcategory"></a>
-                            </div>                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>;
-        <!-- jquery-3.3.1 -->
-        <script src="https://httpsrathanaphon.websites.co.in/common/js/jquery-3.3.1.min.js"></script>
-
-        <!-- jquery cookie plugin -->
-        <script src="https://httpsrathanaphon.websites.co.in/common/js/jquery.cookie.js"></sc
+                                <a href="#" class="p-cat" id="pqv-data-pca
                                  
                     
                 
